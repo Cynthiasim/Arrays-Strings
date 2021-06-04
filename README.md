@@ -1,2 +1,2 @@
-# Input-Output
-##Input and Output in C++
+# Arrays and Strings
+##Arrays and Strings in C++
